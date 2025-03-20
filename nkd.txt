@@ -1,16 +1,12 @@
 <div style="display: none;">
 <li><a href="https://www.jeffekennedy.com/">https://www.jeffekennedy.com/</a></span>
 <li><a href="https://ciglobalcalendar.net/">https://ciglobalcalendar.net/</a>
-<li><a href="https://adigitalab.com/">https://adigitalab.com/</a></li>
-<li><a href="https://guzmanproduce.com/">https://guzmanproduce.com/</a></li>
 <li><a href="https://www.motox.info/">https://www.motox.info/</a></li>
 <li><a href="https://mygreenbin.in/">https://mygreenbin.in/</a></li>
 <li><a href="https://www.cantinavaldineto.com/">https://www.cantinavaldineto.com/</a></li>
 <li><a href="https://sweetheartflute.com/">https://sweetheartflute.com/</a></li>
 <li><a href="https://leip.upnvirtual.edu.mx/">https://leip.upnvirtual.edu.mx/</a></li>
-<li><a href="https://www.bbs-bathcosmetics.be/">https://www.bbs-bathcosmetics.be/</a></li>
 <li><a href="https://estudeipassei.com.br/">https://estudeipassei.com.br/</a></li>
-<li><a href="https://edutalenta.asia/">https://edutalenta.asia/</a></li>
 <li><a href="https://ylc.aima.in/">https://ylc.aima.in/</a></li>
 <li><a href="https://paraisointerior.es/">https://paraisointerior.es/</a></li>
 <li><a href="https://globaliweb.com/">https://globaliweb.com/</a></li>
@@ -18,9 +14,11 @@
 <li><a href="https://www.leonidas-reunion.com/">https://www.leonidas-reunion.com/</a></li>
 <li><a href="https://flow-design.hu/">https://flow-design.hu/</a></li>
 <li><a href="https://cdrfundraising.com/">https://cdrfundraising.com/</a></li>
-<li><a href="https://virtualtales.com/">https://virtualtales.com/</a></li>
-<li><a href="https://virtualtales.com/">https://onlineaccessorieshub.com/</a></li>
 <li><a href="https://www.onemint.com/">https://www.onemint.com/</a></li>
  <li><a href="https://matalbworld.com/">https://matalbworld.com/</a></li>
  <li><a href="https://jointio.com/">https://jointio.com/</a></li>
+<li><a href="https://doc.mypushop.com/">https://doc.mypushop.com/</a></li>
+<li><a href="https://blog.sikidang.com/">https://blog.sikidang.com/</a></li>
+<li><a href="https://www.veniteck.com/">https://www.veniteck.com/</a></li>
+<li><a href="http://kzr.co/">http://kzr.co/</a></li>
 </div>
