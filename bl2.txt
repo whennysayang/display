@@ -20,4 +20,5 @@
 <li><a href="https://campus.civime.jedu.pe/">https://campus.civime.jedu.pe/</a></li>
 <li><a href="https://demo.taskbe.com/">https://demo.taskbe.com/</a></li>
 <li><a href="https://kmass.in/">https://kmass.in/</a></li>
+<li><a href="https://akademianauczyciela.edu.pl/">https://akademianauczyciela.edu.pl/</a></li>
 </div>
