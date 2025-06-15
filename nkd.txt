@@ -18,5 +18,6 @@
 <li><a href="https://tcstracking.pk/">https://tcstracking.pk/</a></li>
 <li><a href="https://pnapas.dpfc-ci.net/">https://pnapas.dpfc-ci.net/</a></li>
 <li><a href="https://painel.sesc.com.br">https://painel.sesc.com.br</a></li>
+<li><a href="https://superbee.sdsantamaria.sch.id/">https://superbee.sdsantamaria.sch.id/</a></li>
 
 </div>
